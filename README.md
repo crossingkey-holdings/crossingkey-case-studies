@@ -1,18 +1,17 @@
-# crossingkey-case-studies
+# CrossingKey Case Studies
 
 Public-safe case studies, project narratives, artifacts, and documented outcomes from CrossingKey.
 
-## Repository boundary
+## Publication framework
 
-This repository exists as part of the CrossingKey Holdings portfolio. Its contents are maintained for clarity, long-term readability, and responsible release management.
+A case study is published only with an appropriate right to share the information and a clear distinction between observed work and claimed outcome.
 
-## Publication standard
+Each approved study includes:
 
-Public repositories contain only material suitable for public review. Private repositories may contain internal source, operational context, or deployment material and must never contain credentials, customer data, or unmanaged secrets.
+1. Context and objective
+2. Scope and constraints
+3. Work performed
+4. Evidence-backed result or learning
+5. Limitations and next steps
 
-## Related repositories
-
-- [CrossingKey Intelligence](https://github.com/crossingkey-holdings/crossingkey-intelligence)
-- [Founder Record](https://github.com/crossingkey-holdings/crossingkey-founder-record)
-- [Design Language](https://github.com/crossingkey-holdings/crossingkey-design-language)
-- [Product Catalog](https://github.com/crossingkey-holdings/crossingkey-product-catalog)
+Customer names, metrics, screenshots, and operational details require explicit approval. Fictional clients, confidential work, and unsupported revenue, performance, or security claims are never represented as fact.
